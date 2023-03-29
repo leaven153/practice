@@ -1,0 +1,42 @@
+:root {}
+body {}
+h1 {}
+p {}
+a {}
+.btn {}
+.btn:active {}
+button.btn {}
+.btn-default {}
+.btn-outline {}
+.btn-active {}
+.btn-default:hover:not(:disabled) {}
+.btn-outline:hovoer:not(:disabled) {}
+.btn-default:active {}
+.btn:disabled {}
+#navbar {}
+.nav-brand {}
+#navbar ul {}
+#navbar li {}
+.nav-item a {}
+.nav-item:hover a {}
+.form h2 {}
+.form h3 {}
+.border-form {}
+.required {}
+label {}
+input:not(.btn) {}
+::placeholder {}
+input:not(.btn):focus {}
+.nav-tabs {}
+.nav-tabs ul {}
+.nav-tabs li {}
+.nav-tabs a {}
+.nav-tabls a#onlink {}
+.border-tabs {}
+.tabs p {}
+.container {}
+#footer-wrapper {}
+#footer-wrapper a {}
+select {}
+#todos-list {}
+#todos-list .card {}
