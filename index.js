@@ -7,3 +7,9 @@ const cat = document.querySelector("#todo-category");
 const list = document.querySelector("#todos-list");
 
 const API = new FetchWrapper("");
+
+const getTodos = () => {}
+
+form.addEventListener();
+
+getTodos();
